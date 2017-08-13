@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="eq_setting_name_array">
+        <item>@string/eq_setting_bass</item>
+        <item>@string/eq_setting_br</item>
+        <item>@string/eq_setting_ba</item>
+        <item>@string/eq_setting_rh</item>
+        <item>@string/eq_setting_live</item>
+        <item>@string/eq_setting_moto</item>
+    </string-array>
+</resources>
